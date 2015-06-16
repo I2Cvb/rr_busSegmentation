@@ -1,0 +1,3 @@
+[submodule "src/aqueduct"]
+	path = src/aqueduct
+	url = https://github.com/I2Cvb/aqueduct.git
